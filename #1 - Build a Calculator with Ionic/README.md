@@ -1,5 +1,7 @@
 # Description
-This is the winning App of Pavel Hodek. The original Repo can be found at https://github.com/pavelhodek/calc
+The challenge for this repo was [Build a Calculator with Ionic](https://devdactic.com/challenge-1/) and this is the winning App of Pavel Hodek. 
+
+The original Repo can be found at https://github.com/pavelhodek/calc
 
 Calc is simple calculator app created using Ionic Framework.
 
